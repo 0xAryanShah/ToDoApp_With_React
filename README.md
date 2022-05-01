@@ -41,3 +41,9 @@ root.render(
 
 ```
 And Rest all Files can be cleaned.
+<br/>
+3) All the Files can be cloned now, Run
+```
+npm start
+```
+Your ToDo App is Ready
